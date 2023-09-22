@@ -1,0 +1,14 @@
+form{
+    box-shadow: 10px 10px 36px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+    margin: 50px 0;
+    border: 2px solid $renk2;
+    .button{
+        background-color: $renk3;
+        color: black;
+        &:hover{
+            background-color: $renk2;
+            color: black;
+        }
+    }
+}

@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100&display=swap");
+.footer {
+  background-color: rgb(18, 18, 18);
+}
+
+.logo {
+  width: 100px;
+}
+
+.listItem {
+  color: #F8F1F1;
+  margin-left: 20px;
+  font-size: 20px;
+  font-family: "Kanit", sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.active {
+  color: #FFC1C8;
+  border-bottom: 0.1rem double #fff;
+}
+
+.icons {
+  margin-left: 20px;
+  font-size: 20px;
+  color: #F8F1F1;
+}
+.icons:hover {
+  color: #FFC1C8;
+}/*# sourceMappingURL=main.css.map */

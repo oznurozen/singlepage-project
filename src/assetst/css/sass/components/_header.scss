@@ -1,0 +1,26 @@
+.logo{
+    width: 100px;
+}
+
+.listItem{ 
+    color: $renk1;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.active{
+    color: $renk2;
+    border-bottom: .1rem double #fff;
+}
+
+.icons{
+    margin-left: 20px;
+    font-size: 20px;
+    color: $renk1;
+    &:hover{
+        color: $renk2;
+    }
+}
